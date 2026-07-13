@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cw6okqhv4w3pozg56yey242iqm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **Lucas2Araujo/Lucas2Araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
