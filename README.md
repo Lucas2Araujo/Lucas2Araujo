@@ -7,14 +7,8 @@
 
   <br/><br/>
 
-  <!-- Banner Steam Direto & Estilizado -->
-  <a href="http://steamcommunity.com/profiles/76561198322813996">
-    <img src="https://img.shields.io/badge/Steam_Profile-Dominici-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
-  </a>
 
-  <br/><br/>
-
-  <p align="center">
+  <p>
     Sou <b>Lucas Araújo Dominici</b>, estudante de Engenharia da Computação (UFMA) e desenvolvedor focado em <b>Python</b>, interfaces multiplataforma, processamento de dados/imagens e automação de fluxos. Construo aplicações aplicando arquitetura em camadas, persistência local e testes automatizados.
   </p>
 
