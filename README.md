@@ -5,11 +5,11 @@
   <!-- Widget Spotify -->
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cw6okqhv4w3pozg56yey242iqm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-  <br/>
+  <br/><br/>
 
-  <!-- Banner / Card Steam Estável -->
-  <a href="https://steamcommunity.com/profiles/76561198322813996">
-    <img src="https://card.ststat.top/api?id=76561198322813996&theme=dark" alt="Perfil Steam" />
+  <!-- Banner Steam Direto & Estilizado -->
+  <a href="http://steamcommunity.com/profiles/76561198322813996">
+    <img src="https://img.shields.io/badge/Steam_Profile-Dominici-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
   </a>
 
   <br/><br/>
@@ -20,16 +20,10 @@
 
   <br/>
 
-  <!-- Gráfico de Atividade e Estatísticas do GitHub (Alta Disponibilidade) -->
+  <!-- Cards de Estatísticas do GitHub (Funcionando) -->
   <a href="https://github.com/Lucas2Araujo">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas2Araujo&theme=tokyo-night&hide_border=true&area=true" alt="Atividade no GitHub" width="95%" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/Lucas2Araujo">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Lucas2Araujo&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas Lucas" height="150" />
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lucas2Araujo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="150" />
+    <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=Lucas2Araujo&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas Lucas" />
+    <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lucas2Araujo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
   </a>
 
 </div>
