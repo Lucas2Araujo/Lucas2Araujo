@@ -1,9 +1,32 @@
-## Aouba 👋
+<div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cw6okqhv4w3pozg56yey242iqm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+  # Aouba 👋
 
-Sou Lucas Araújo Dominici, estudante de Engenharia da Computação (UFMA) e desenvolvedor focado em **Python**, interfaces multiplataforma, processamento de dados/imagens e automação de fluxos. Construo aplicações aplicando arquitetura em camadas, persistência local e testes automatizados.
+  <!-- Widget Spotify -->
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cw6okqhv4w3pozg56yey242iqm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
+  <br/>
+
+  <!-- Card Steam -->
+  <a href="https://steamcommunity.com/profiles/76561198322813996">
+    <img src="https://steam-card.vercel.app/api?steamid=76561198322813996&theme=dark" alt="Perfil Steam de Lucas" />
+  </a>
+
+  <br/><br/>
+
+  <p align="center">
+    Sou <b>Lucas Araújo Dominici</b>, estudante de Engenharia da Computação (UFMA) e desenvolvedor focado em <b>Python</b>, interfaces multiplataforma, processamento de dados/imagens e automação de fluxos. Construo aplicações aplicando arquitetura em camadas, persistência local e testes automatizados.
+  </p>
+
+  <br/>
+
+  <!-- Cards de Estatísticas do GitHub -->
+  <a href="https://github.com/Lucas2Araujo">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lucas2Araujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Lucas Araújo" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas2Araujo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  </a>
+
+</div>
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
