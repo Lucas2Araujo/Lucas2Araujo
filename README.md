@@ -7,9 +7,9 @@
 
   <br/>
 
-  <!-- Card Steam -->
+  <!-- Banner / Card Steam Estável -->
   <a href="https://steamcommunity.com/profiles/76561198322813996">
-    <img src="https://steam-card.vercel.app/api?steamid=76561198322813996&theme=dark" alt="Perfil Steam de Lucas" />
+    <img src="https://card.ststat.top/api?id=76561198322813996&theme=dark" alt="Perfil Steam" />
   </a>
 
   <br/><br/>
@@ -20,10 +20,16 @@
 
   <br/>
 
-  <!-- Cards de Estatísticas do GitHub -->
+  <!-- Gráfico de Atividade e Estatísticas do GitHub (Alta Disponibilidade) -->
   <a href="https://github.com/Lucas2Araujo">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lucas2Araujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Lucas Araújo" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas2Araujo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas2Araujo&theme=tokyo-night&hide_border=true&area=true" alt="Atividade no GitHub" width="95%" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/Lucas2Araujo">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Lucas2Araujo&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas Lucas" height="150" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lucas2Araujo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="150" />
   </a>
 
 </div>
